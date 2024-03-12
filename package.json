@@ -18,7 +18,6 @@
   "test:ci": "npm test -- --coverage",
   "test:coveralls": "npm run test:ci && coveralls < coverage/lcov.info"
   },
-  "keywords": [clean architecture, nodejs, typescript, tdd, ddd, solid],
   "author": "Willian S. ",
   "license": "ISC",
   "devDependencies": {
