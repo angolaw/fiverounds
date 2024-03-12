@@ -1,1 +1,11 @@
 node_modules
+.dist
+dist
+coverage
+.data
+data
+!src/data
+requirements
+.vscode
+.idx
+package-lock.json
