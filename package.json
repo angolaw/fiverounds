@@ -9,7 +9,8 @@
   "author": "Willian S. ",
   "license": "ISC",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.9.2"
+    "git-commit-msg-linter": "^4.9.2",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "express": "^4.19.2"

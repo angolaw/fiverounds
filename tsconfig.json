@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "node16",
+    "rootDirs": [
+      "src",
+      "tests"
+    ],
+    "esModuleInterop": true,
+    "lib": [
+      "ES2023"
+    ],
+    "target": "ES2022",
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}
