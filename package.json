@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js"
+    "dev": "tsx watch src/server.ts"
   },
   "author": "Willian S. ",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.14.5",
     "git-commit-msg-linter": "^4.9.2",
+    "tsx": "^4.15.6",
     "typescript": "^5.4.5"
   },
   "dependencies": {
