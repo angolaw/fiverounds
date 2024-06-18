@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/main/server.js",
+    "dev": "node src/index.js"
   },
   "author": "Willian S. ",
   "license": "ISC",
   "devDependencies": {
     "git-commit-msg-linter": "^4.9.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.19.2"
+  },
   "engines": {
     "node": "18.x"
   },

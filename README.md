@@ -6,7 +6,7 @@
 ## Stack
     - Node.js
     - Jest
-    - MongoDB
+    - Postgres
 
 ## Objetivo
     - API para gerenciamento de um dojo de jiu-jitsu baseado nas necessidades inerentes a esse nicho. 
