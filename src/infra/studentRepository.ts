@@ -24,6 +24,7 @@ class StudentRepository {
         const students = await knex('student').select()
         return students.map(student => new Student(student))
     }
+    
 
 }
 module.exports = StudentRepository
