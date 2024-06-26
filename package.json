@@ -9,6 +9,8 @@
   "author": "Willian S. ",
   "license": "ISC",
   "devDependencies": {
+    "@biomejs/biome": "1.8.2",
+    "@types/express": "^4.17.21",
     "@types/node": "^20.14.5",
     "git-commit-msg-linter": "^4.9.2",
     "tsx": "^4.15.6",
